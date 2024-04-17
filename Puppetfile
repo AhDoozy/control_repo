@@ -1,5 +1,7 @@
 forge 'https://forge.puppet.com'
 
+mod 'jeffmccune-motd', '1.0.3'
+
 # Modules from the Puppet Forge
 # Versions should be updated to be the latest at the time you start
 #mod 'puppetlabs/inifile', '5.0.1'
